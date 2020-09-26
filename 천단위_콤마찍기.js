@@ -25,4 +25,4 @@ function commaize2(num) {
 
 console.log(commaize1(1234567));
 console.log(commaize2(1234567));
-console.log(commaize2(1234325333245321367));
+console.log(commaize2(123432533245321367));
