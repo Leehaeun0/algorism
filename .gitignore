@@ -1,5 +1,6 @@
 node_modules
-.eslintrc
+.eslintrc.json
 .prettierrc
 package.json
+package-lock.json
 yarn.lock
