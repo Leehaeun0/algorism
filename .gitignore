@@ -2,3 +2,4 @@ node_modules
 .eslintrc
 .prettierrc
 package.json
+yarn.lock
