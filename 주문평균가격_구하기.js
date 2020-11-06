@@ -2,7 +2,7 @@ function solution(p, c) {
   let totalPrice = 0;
   let price = 100;
   let store = 0;
-  day = p.length;
+  let day = p.length;
 
   for (let i = 0; i < p.length; i++) {
     store += p[i];
