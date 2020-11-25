@@ -1,5 +1,5 @@
 const sum = (more, less) => {
-  const arr = [];
+  let arr = [];
   for (let i = less; i <= more; i++) {
     arr.push(i);
   }
