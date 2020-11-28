@@ -4,3 +4,5 @@ node_modules
 package.json
 package-lock.json
 yarn.lock
+
+프로그래머스/완주하지_못한_선수.js
